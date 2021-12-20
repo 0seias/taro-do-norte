@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Aug 28 12:23:29 GFT 2021
+antlr-2.7.2.pom>pdcase-central=
+antlr-2.7.2.jar>central=
+antlr-2.7.2.jar>pdcase-central=
+antlr-2.7.2.pom>central=

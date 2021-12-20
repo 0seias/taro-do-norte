@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-10-01 19:24:26.29 UTC</timestamp>
+  <md5sum>3db8cc5f12810f1c3de4e8017cbf3006</md5sum>
+  <fileName>Credential id=13fc81bd-ca99-4488-8b63-87ee9935c8cd name=ppfurtado/******</fileName>
+  <usages>
+    <entry>
+      <string>apirendafaturamento</string>
+      <ranges>1-5</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
