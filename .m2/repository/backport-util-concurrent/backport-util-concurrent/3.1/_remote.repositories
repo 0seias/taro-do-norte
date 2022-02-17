@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Aug 28 12:22:10 GFT 2021
+backport-util-concurrent-3.1.jar>pdcase-central=
+backport-util-concurrent-3.1.jar>central=
+backport-util-concurrent-3.1.pom>pdcase-central=
+backport-util-concurrent-3.1.pom>central=
