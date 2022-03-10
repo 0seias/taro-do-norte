@@ -28,7 +28,7 @@ const Sobre = ({ navigation }) => {
                 <Image style={styles.imagem} source={background} />
             </View>
 
-            <TouchableOpacity style={styles.container} onPress={() => navigation.navigate('MainScreen')} >
+            <TouchableOpacity style={styles.container} >
                 <View style={styles.text0}>
                     <Animatable.Text
                         //animation="pulse" 
