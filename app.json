@@ -1,0 +1,35 @@
+{
+  "expo": {
+   "name": "taro-do-norte",
+   "icon": "./assets/simpletarot.png",
+   "version": "1.0.0",
+   "slug": "taro-do-norte",
+   "sdkVersion": "42.0.0",
+   "orientation": "portrait",
+   "backgroundColor": "#380003",
+   "splash": {
+     "image": "./assets/simpletarot.png",
+     "resizeMode": "contain",
+     "backgroundColor": "#380003"
+   },
+   "ios": {
+    "bundleIdentifier": "com.ozychan.tarodonorte",
+    "buildNumber": "1.0.0",
+    "backgroundColor": "#380003"
+
+  },
+   "android": {
+     "package": "com.ozychan.taro_do_norte",
+     "versionCode": 2,
+     "permissions": [],
+     "adaptiveIcon": {
+      "foregroundImage": "./assets/simpletarot.png",
+      "backgroundColor": "#380003"
+    }
+   }
+  }
+}
+
+
+
+
